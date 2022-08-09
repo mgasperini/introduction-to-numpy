@@ -8,7 +8,7 @@ Before we get into the Numpy library in Python and its functionalities, we will 
 
 ### Understanding Keywords
 
-Before jumping into what arrays are all about, we need to recap what we learnt about Lists in “Introduction to Python Programming” course. In addition, we need to learn about some keywords such as a “Dimension”.
+Before jumping into what arrays are all about, we need to recap what we learned about Lists in the “Introduction to Python Basics for Data Science” course. In addition, we need to learn about some keywords such as a “Dimension”.
 
 ### List
 
@@ -18,8 +18,8 @@ Before jumping into what arrays are all about, we need to recap what we learnt a
   * 48851964400
   * 3.14
   * Mom
-* **You could make your own list & include whatever you want in it.** So, in my list, I have included what I do early in the morning, the city I live in, my mobile number, the value of pi to two digits, and mom.
-*   If you look at it, my list has different types of data – strings, float, and integer. And, this is the kind of flexibility Python List provides. It can hold different types of data types. **Declaring a List is fairly** **straightforward. You use square bracket (\[]) and separate the items by a comma.** Let me write an example - 
+* **You could make your own list & include whatever you want in it.** So, in my list, I have included what I do early in the morning, my city, my mobile number, the value of pi to two digits, and mom.
+*   If you look at it, my list has different types of data – strings, float, and integer. And, this is the kind of flexibility Python List provides. It can hold different types of data types. **Declaring a List is fairly** **straightforward. You use square brackets (\[]) and separate the items by a comma.** Let me write an example - 
 
     A = \["Brush", "Leuven", 48851964400, 3.14, "Mom"]
 
@@ -27,7 +27,26 @@ Before jumping into what arrays are all about, we need to recap what we learnt a
 
 **Now, what are dimensions?** Let’s take the example of a box to explain this. A box has three dimensions - width, length and depth (or height). Similarly, in data science we will be working with “N” dimensions in a data structure (list, arrays, vectors etc). “N” could be any number.
 
+
+
+
+
+
+
+
+
+
+
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_830f0e57f72e4069934a6c31dbbefdc4.png)
+
+
+
+
+
+
+
+
+
 
 ### What are Arrays?
 
