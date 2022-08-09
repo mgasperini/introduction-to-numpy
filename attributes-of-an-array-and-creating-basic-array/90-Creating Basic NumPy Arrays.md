@@ -1,15 +1,17 @@
-# Creating Basic NumPy Arrays
-
 ### array( )
 
-You can use array() function to create a numpy array.
+You can use the array() function to create a numpy array.
 
 You can see here the first row in arr is nothing but the first inner list \[1, 2, 5, 7] and similarly the other rows are other inner lists index wise.
+
+
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_44efcf1dafe3476e97b5f5529e7c7905.png)
 
 ### arange( )
 
 Use arange() function to create collection of continuous integers.
+
+
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_aa60921d6a504e1f9042be8a10a69062.png)
 
 Here, 10 means arange will generate first 10 integers starting from 0. Similarly if you pass 5 in bracket, it will generate numbers from 0 to 4 (i.e. first 5 integers) \[ 0, 1, 2, 3, 4 ]
@@ -21,6 +23,7 @@ If you want to create a collection of zero values, you can use the zeros() funct
 The zeros() function creates an n-dimensional array of zeros. If no shape is specified, then it will create a one-dimensional array:
 
 For instance, 5 means it will generate 5 zeros.
+
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_444ffe58ce9840bf889fa46a035dbc27.png)
 
 ### ones( )
