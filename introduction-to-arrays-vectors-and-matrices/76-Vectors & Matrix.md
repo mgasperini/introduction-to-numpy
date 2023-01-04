@@ -36,7 +36,6 @@ Then this would be a two-dimensional array, because it has two dimensions, or di
 
 
 
-
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_ce134eebc081422594798b6fb9172680.png)
 
 
@@ -46,6 +45,19 @@ Then this would be a two-dimensional array, because it has two dimensions, or di
 
 
 * The matrix A has two rows and three columns.
+
+With that let's understand Matrices with an intuitively example. Imagine you have a box with a bunch of toy cars inside, and you want to organize them into rows and columns. You can think of the box as a matrix, and each toy car as an element in the matrix. A matrix is like a table of numbers that are organized into rows and columns.
+
+For example, you could have a matrix with three rows and three columns, like this:
+
+car 1, car 2, car 3
+car 4, car 5, car 6
+car 7, car 8, car 9
+
+In this matrix, the first row has three toy cars (car 1, car 2, and car 3), the second row has three toy cars (car 4, car 5, and car 6), and the third row has three toy cars (car 7, car 8, and car 9).
+
+Each toy car has a specific position in the matrix, based on its row and column. For example, car 5 is in the second row and the second column of the matrix. You can use the row and column indices to identify the position of each toy car in the matrix.
+
 
 ### Shape of Matrix
 
@@ -68,5 +80,6 @@ Then this would be a two-dimensional array, because it has two dimensions, or di
 
 
 * Whenever you are working with matrix shape, remember rows $\times$ columns.
+
 
 Both vectors and matrices are useful for organizing and storing data, and they can be used in different ways to solve problems. For example, you could use a vector to keep track of the scores in a game, or you could use a matrix to represent the positions of objects on a screen.
