@@ -6,7 +6,26 @@
 ### Vector
 
 * A vector, in programming, is a type of array that is one-dimensional.
+
 * For example, \[1, 2, 3, 4, 5] is a vector.
+
+Here's a simple explanation of what it means for a vector to be one-dimensional:
+
+Imagine you have a box with a bunch of toy cars inside. You can think of the box as an array, and each toy car as an element in the array. An array is like a list of things that are organized in a specific order.
+
+Now, imagine that you only have one row of toy cars in your box. This means that the toy cars are all lined up in a single row, like this:
+
+car 1, car 2, car 3, car 4, car 5
+
+This is a one-dimensional array, or a vector, because there is only one row of toy cars. In other words, the array has only one dimension, or direction.
+
+In contrast, if you had a box with multiple rows of toy cars, like this:
+
+car 1, car 2, car 3
+car 4, car 5, car 6
+car 7, car 8, car 9
+
+Then this would be a two-dimensional array, because it has two dimensions, or directions (up and down, as well as left and right).
 
 ### Matrix
 
@@ -49,3 +68,5 @@
 
 
 * Whenever you are working with matrix shape, remember rows $\times$ columns.
+
+Both vectors and matrices are useful for organizing and storing data, and they can be used in different ways to solve problems. For example, you could use a vector to keep track of the scores in a game, or you could use a matrix to represent the positions of objects on a screen.
