@@ -1,15 +1,41 @@
 1. Create a Python List
 
+```
+# Initialize a Python list
+python_list = [2, 4, 6, 8, 10]
+```
 
-
-![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_2b27e4a715e042249ad0608eaf452972.png)
-
-
+```
+# Display the List
+python_list
+```
+Output: 
+```
+[2, 4, 6, 8, 10]
+```
 
 2. Import NumPy
+
+
+```
+# Import numpy Library
+import numpy as np
+```
+
+
 3. Pass the Python list in np.array().
 
 
+```
+# Converting the python_list to a numpy array
+numpy_array1 = np.array (python_list)
+
+# Displays the numpy array
+numpy_array1
+```
+Output:
 
 
-![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_ace290693fb9474c9772ce18e3b7d484.png)
+```
+array([ 2,  4,  6,  8, 10])
+```
