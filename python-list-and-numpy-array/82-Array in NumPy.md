@@ -1,10 +1,8 @@
-# Arrays in NumPy
-
 ### What is an Array in NumPy?
 
-* Like list in Python an array is a data structure in NumPy.
-* An Array in NumPy can hold collection of ordered elements.
-* An array in NumPy can only hold data of same type.
+* Like list in Python an array is a **data structure** in NumPy.
+* An Array in NumPy can hold **collection of ordered elements**.
+* An array in NumPy can only hold **data of same type**.
 
 ### More Information About Arrays
 
