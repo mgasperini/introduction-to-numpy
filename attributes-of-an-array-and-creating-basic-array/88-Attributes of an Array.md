@@ -1,5 +1,6 @@
 * The number of dimensions and items in an array is defined by its shape.
-* The dimensions are also called as axes.  
+* The dimensions are also called as axes.
+* 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_33f018e01c4640ef9817f31ddc6159ea.png)
 
 
