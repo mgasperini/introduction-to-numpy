@@ -84,4 +84,4 @@ Numpy version: 0.16344507999929192
 ```
 
 
-* You can observe here that the time taken by the python list to do the element-wise sum is much much more than the NumPy arrays.
+* You can observe here that the time taken by the python list to do the element-wise sum is much more than the NumPy arrays.
