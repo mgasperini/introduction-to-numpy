@@ -32,7 +32,9 @@ Y = np.array(Y_list)
 
 
 ```
-def pure_python_version(): #Explicitly Python based with lists
+# Define a function to calculate sum
+# using python Lists X_list, Y_list)
+def pure_python_version():
     Z = []
     for i in range(len(X_list)):
         Z.append(X_list[i] + Y_list[i])
