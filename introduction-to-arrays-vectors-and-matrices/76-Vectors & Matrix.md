@@ -20,11 +20,13 @@ car 1, car 2, car 3, car 4, car 5
 This is a one-dimensional array, or a vector, because there is only one row of toy cars. In other words, the array has only one dimension, or direction.
 
 In contrast, if you had a box with multiple rows of toy cars, like this:
+        
+                                                  car 1, car 2, car 3
 
-car 1, car 2, car 3
-car 4, car 5, car 6
-car 7, car 8, car 9
+                                                  car 4, car 5, car 6
 
+                                                  car 7, car 8, car 9
+          
 Then this would be a two-dimensional array, because it has two dimensions, or directions (up and down, as well as left and right).
 
 ### Matrix
